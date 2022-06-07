@@ -1,0 +1,35 @@
+{
+ "sections": [
+  {
+   "id": "49fc6fc7-26eb-fd3a-d95c-2bc71c37cdf8",
+   "title": "Page 1",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Page-1-49fc.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false,
+   "closeTerminalSession": true,
+   "learningObjectives": ""
+  },
+  {
+   "id": "a31a4d15-68dd-7422-7191-4c482c485212",
+   "title": "Page 2",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Page-2-a31a.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false,
+   "closeTerminalSession": true,
+   "learningObjectives": ""
+  }
+ ],
+ "theme": "light",
+ "scripts": [],
+ "lexikonTopic": "",
+ "useSubmitButtons": true,
+ "useMarkAsComplete": true
+}
